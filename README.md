@@ -3,7 +3,7 @@
 > A curated list of Awesome React blogs and newsletters for React and React Native developers and newbies.
 > Inspired by [Awesome Python Blogs](https://github.com/mikeyny/awesome-python-blogs) and [Awesome Ruby Blogs](https://github.com/learn-anything/awesome-ruby-blogs).
 
-![React Icon](https://i.ibb.co/Sm7W2Ft/react.png)
+![React Icon](https://i.ibb.co/vwVJ62v/react-1.png)
 
 ## Blogs
 
