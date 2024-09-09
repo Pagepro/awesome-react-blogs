@@ -7,8 +7,8 @@
 
 ## Blogs
 
-- [Aman Mittal](https://amanhimself.dev/)
-- [Bacancy](https://www.bacancytechnology.com/blog/category/reactjs)
+- <a href="https://amanhimself.dev/" rel="dofollow">Aman Mittal</a>
+- <a href="https://www.bacancytechnology.com/blog/category/reactjs">Bacancy</a>
 - [Flavio Copes](https://flaviocopes.com/tags/react/)
 - [Gosha Spark](https://goshacorp.com/)
 - [Josh W Comeau](https://www.joshwcomeau.com/)
